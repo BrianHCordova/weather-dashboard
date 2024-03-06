@@ -26,3 +26,6 @@ To use the application, simply open the index.html file in a web browser. Enter 
 ## Credits
 For more information on how to work with the OpenWeather API and API keys, refer to the Full-Stack Blog.
 
+## Links
+Repo: https://github.com/BrianHCordova/weather-dashboard
+Deployed site: https://brianhcordova.github.io/weather-dashboard/
