@@ -14,12 +14,26 @@
         <div class="search-container">
             <h2 class="search">Search For a City</h2>
             <form>
-                <label for="textInput">Enter your text:</label>
                 <input type="text" id="textInput" name="textInput">
                 <br>
-                <input type="submit" value="Submit">
+                <input id="submit-btn" type="submit" value="Submit">
             </form>
         </div>
+        <section class="displayed-container">
+            <div class="container-title">
+                <h2 class="city-name"></h2>
+                <h2 class="city-date"></h2>
+                <h3 class="weather-icon"></h3>
+            </div>
+            <hr>
+            <h3 class="temp"></h3>
+            <h3 class="wind"></h3>
+            <h3 class="humidity"></h3>
+        </section>
+        <section class="weather-card-container">
+        </section>
     </main>
+
+    <script src="./assets/js/script.js"></script>
 </body>
 </html>
